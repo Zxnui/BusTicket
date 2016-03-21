@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusTicket</string>
+    <string name="first_name">序列号:</string>
+    <string name="bus_time">车时间:</string>
+    <string name="bus_num">车牌号:</string>
+    <string name="bus_ticket_sumbit">生成票</string>
+    <string name="bus_ticket_update">上传票</string>
+    <string name="bus_ticket_pic">票模板</string>
+</resources>
